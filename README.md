@@ -1,7 +1,9 @@
 # Mission to Mars
 
 [Web Scraping Function with Splinter and Beautiful Soup](https://github.com/c-geisel/Mission-to-Mars/blob/main/scraping.py)
+
 [Flask File to Create Web Application](https://github.com/c-geisel/Mission-to-Mars/blob/main/app.py)
+
 [HTML formatting Template](https://github.com/c-geisel/Mission-to-Mars/blob/main/templates/index.html)
 
 ### Applications Used
@@ -16,7 +18,7 @@ To begin this process first a script is written in Jupyter Notebook that utilize
 ## Outcome 
 When the app.py flask file is run the web application is able to be viewed. 
 
-![election_results_txt.png](analysis/election_results_txt.png)
+![Mars_Webapp.jpg](Images/Mars_Webapp.jpg)
 
 By clicking the "Scrape New Data" Button, the scraping.py file is running our web scraping function to gather the latest data on Mars.
 
